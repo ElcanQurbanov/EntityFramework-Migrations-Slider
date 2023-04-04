@@ -1,0 +1,372 @@
+header #nav-up {
+  background-color: #222222;
+  width: 100%;
+  height: 70px;
+}
+header #nav-up .nav-up-icon {
+  display: flex;
+  justify-content: end;
+  height: 70px;
+  text-align: center;
+  align-items: center;
+  gap: 35px;
+}
+header #nav-up .nav-up-icon a {
+  text-decoration: none;
+}
+header #nav-up .nav-up-icon a i {
+  color: #C3C3C3;
+  font-size: 22px;
+}
+header #nav-up .nav-up-icon a span {
+  position: relative;
+  bottom: 4px;
+  left: 5px;
+  color: #C3C3C3;
+  font-size: 13px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+header #nav-search {
+  background-color: #EF6C00;
+  width: 100%;
+  height: 90px;
+}
+header #nav-search .sophia {
+  margin-top: 20px;
+}
+header #nav-search .sophia a {
+  text-decoration: none;
+}
+header #nav-search .sophia a h1 {
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+header #nav-search .search {
+  height: 90px;
+  display: flex;
+  align-items: center;
+}
+header #nav-search .search button {
+  background-color: #333;
+  border: none;
+  color: white;
+  width: 145px;
+  height: 41px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+header #nav-search .search .navbar {
+  width: 90%;
+  padding-left: 10px;
+  border-bottom-right-radius: 0px;
+  border-top-right-radius: 0px;
+}
+header #nav-search .search .navbar .search {
+  width: 100%;
+}
+header #nav-search .search .nav-search-icon a i {
+  color: red;
+}
+header #nav-search .nav-search-icon {
+  height: 90px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+header #nav-search .nav-search-icon a .left-icon {
+  color: white;
+  font-size: 28px;
+}
+header #nav-search .nav-search-icon a .right-icon {
+  color: white;
+  font-size: 20px;
+  margin-left: 39px;
+}
+header #nav-search .nav-search-icon .call-helpline .up-text {
+  color: white;
+  font-size: 13px;
+}
+header #nav-search .nav-search-icon .call-number b {
+  color: white;
+  font-size: 17px;
+}
+header #nav-search .nav-search-icon span {
+  color: white;
+  position: relative;
+  right: 15px;
+  top: 4px;
+}
+header #nav-search .nav-search-icon .add-card-items {
+  display: flex;
+}
+header #nav-search .nav-search-icon .add-card-items a i {
+  font-size: 18px;
+}
+header #nav-search .nav-search-icon .add-card-items .basket-number {
+  background-color: black;
+  width: 18px;
+  position: relative;
+  height: 17px;
+  top: -12px;
+  right: 6px;
+  border-radius: 50%;
+}
+header #nav-search .nav-search-icon .add-card-items sup {
+  color: white;
+  position: relative;
+  right: -6px;
+  top: -5px;
+  font-weight: 600;
+}
+header #nav-down {
+  background-color: #F7F7F7;
+}
+header #nav-down .navbar-down {
+  height: 64px;
+}
+header #nav-down .navbar-down .home {
+  position: relative;
+  top: 3px;
+}
+header #nav-down .nav-items li:hover {
+  background-color: #777;
+}
+
+main #page-title {
+  padding: 20px 0;
+  border-bottom: 1px solid #f3f3f3;
+}
+main #page-title .contact h4 {
+  font-size: 16px;
+  color: #555;
+  font-weight: 500;
+}
+main #page-title .content {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  gap: 10px;
+}
+main #page-title .content li {
+  list-style: none;
+  font-size: 14px;
+  color: #555;
+  font-weight: 500;
+}
+main #page-title .content li a {
+  text-decoration: none;
+  color: #555;
+  font-weight: 500;
+  font-size: 14px;
+}
+main #page-title .content .about-us {
+  display: flex;
+}
+main #contact-us .map {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 20px;
+  height: 960.15px;
+  border-radius: 10px;
+  /* form starting stylings ------------------------------- */
+  /* LABEL ======================================= */
+  /* active state */
+  /* BOTTOM BARS ================================= */
+  /* active state */
+  /* HIGHLIGHTER ================================== */
+  /* active state */
+  /* ANIMATIONS ================ */
+}
+main #contact-us .map .title {
+  margin-top: 20px;
+}
+main #contact-us .map .title h3 {
+  font-size: 28px;
+  color: #383838;
+}
+main #contact-us .map .icons ul {
+  padding: 0;
+}
+main #contact-us .map .icons ul li {
+  border-bottom: 1px solid #e5e5e5;
+  list-style: none;
+}
+main #contact-us .map .icons ul li i {
+  float: left;
+  font-size: 33px;
+  color: #EF6C00;
+  margin-right: 7px;
+  line-height: 60px;
+}
+main #contact-us .map .icons ul li h4 {
+  margin: 0;
+}
+main #contact-us .map button {
+  background-color: #EF6C00;
+  color: white;
+  width: 95.66px;
+  height: 46px;
+  border-radius: 4px;
+  margin-top: -14px;
+}
+main #contact-us .map h2 small {
+  font-weight: normal;
+  color: #888;
+  display: block;
+}
+main #contact-us .map .footer {
+  text-align: center;
+}
+main #contact-us .map .footer a {
+  color: red;
+}
+main #contact-us .map .group {
+  position: relative;
+  margin-bottom: 45px;
+}
+main #contact-us .map input {
+  font-size: 18px;
+  padding: 10px 10px 10px 5px;
+  display: block;
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #757575;
+}
+main #contact-us .map input:focus {
+  outline: none;
+}
+main #contact-us .map label {
+  color: #999;
+  font-size: 15px;
+  font-weight: normal;
+  position: absolute;
+  pointer-events: none;
+  left: 5px;
+  top: 10px;
+  transition: 0.2s ease all;
+  -moz-transition: 0.2s ease all;
+  -webkit-transition: 0.2s ease all;
+}
+main #contact-us .map input:focus ~ label,
+main #contact-us .map input:valid ~ label {
+  top: -20px;
+  font-size: 12px;
+  color: red;
+}
+main #contact-us .map .bar {
+  position: relative;
+  display: block;
+  width: 300px;
+}
+main #contact-us .map .bar:before,
+main #contact-us .map .bar:after {
+  content: "";
+  height: 2px;
+  width: 0;
+  bottom: 1px;
+  position: absolute;
+  background: red;
+  transition: 0.2s ease all;
+  -moz-transition: 0.2s ease all;
+  -webkit-transition: 0.2s ease all;
+}
+main #contact-us .map .bar:before {
+  left: 50%;
+}
+main #contact-us .map .bar:after {
+  right: 50%;
+}
+main #contact-us .map input:focus ~ .bar:before,
+main #contact-us .map input:focus ~ .bar:after {
+  width: 0%;
+}
+main #contact-us .map .highlight {
+  position: absolute;
+  height: 60%;
+  width: 80px;
+  top: 25%;
+  left: 0;
+  pointer-events: none;
+  opacity: 0.5;
+}
+main #contact-us .map input:focus ~ .highlight {
+  animation: inputHighlighter 0.3s ease;
+}
+@keyframes inputHighlighter {
+  from {
+    background: #5264AE;
+  }
+  to {
+    width: 0;
+    background: transparent;
+  }
+}
+
+#footer {
+  background-color: #F7F7F7;
+  height: 345px;
+}
+#footer .sophia-logo a {
+  text-decoration: none;
+  color: black;
+}
+#footer .sophia-logo p {
+  width: 361px;
+  height: 85px;
+  margin-top: 14px;
+}
+#footer .title {
+  margin-left: 29px;
+}
+#footer .title .tel-box {
+  display: flex;
+}
+#footer .title .tel-box .icon-text p {
+  margin-left: 9px;
+}
+#footer .title input {
+  padding: 0 65px 0 20px;
+  border: 1px solid #e2e2e2;
+  font-size: 15px;
+  height: 45px;
+  border-radius: 4px;
+}
+#footer .title button {
+  width: 262px;
+  height: 45px;
+  margin-top: 20px;
+  color: #fff;
+  background-color: #EF6C00;
+  font-weight: 700;
+  font-size: 14px;
+  border-radius: 3px;
+}
+#footer .title .h5 {
+  margin-left: 32px;
+}
+#footer .title ul li {
+  list-style: none;
+}
+#footer .title ul li a {
+  line-height: 31px;
+}
+#footer .title .social-list {
+  margin-top: 20px;
+  margin-left: -202px;
+}
+#footer .title .social-list .social-list-inline {
+  flex-direction: row;
+  box-sizing: border-box;
+  display: flex;
+}
+#footer .title .social-list .social-list-inline li {
+  border: 1px solid #444;
+  margin-right: 6px;
+  width: 33px;
+  height: 33px;
+  margin-top: 20px;
+  text-align: center;
+  border-radius: 50%;
+}
+#footer .title .social-list .social-list-inline li i {
+  color: #383838;
+}/*# sourceMappingURL=contact.css.map */

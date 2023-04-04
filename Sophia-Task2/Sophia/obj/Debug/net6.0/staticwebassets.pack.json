@@ -1,0 +1,289 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Sophia.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Sophia.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\about\\about.css",
+      "PackagePath": "staticwebassets\\assets\\css\\about\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\about\\about.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\about\\about.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\about\\about.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\about\\about.scss"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\account\\account.css",
+      "PackagePath": "staticwebassets\\assets\\css\\account\\account.css"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\account\\account.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\account\\account.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\account\\account.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\account\\account.scss"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\blog\\blog.css",
+      "PackagePath": "staticwebassets\\assets\\css\\blog\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\blog\\blog.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\blog\\blog.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\blog\\blog.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\blog\\blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\cart\\cart.css",
+      "PackagePath": "staticwebassets\\assets\\css\\cart\\cart.css"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\cart\\cart.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\cart\\cart.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\cart\\cart.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\cart\\cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\checkout\\checkout.css",
+      "PackagePath": "staticwebassets\\assets\\css\\checkout\\checkout.css"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\checkout\\checkout.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\checkout\\checkout.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\checkout\\checkout.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\checkout\\checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\contact\\contact.css",
+      "PackagePath": "staticwebassets\\assets\\css\\contact\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\contact\\contact.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\contact\\contact.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\contact\\contact.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\contact\\contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\home\\home.css",
+      "PackagePath": "staticwebassets\\assets\\css\\home\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\home\\home.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\home\\home.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\home\\home.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\home\\home.scss"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\product-detail\\product-detail.css",
+      "PackagePath": "staticwebassets\\assets\\css\\product-detail\\product-detail.css"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\product-detail\\product-detail.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\product-detail\\product-detail.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\product-detail\\product-detail.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\product-detail\\product-detail.scss"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\wishlist\\wishlist.css",
+      "PackagePath": "staticwebassets\\assets\\css\\wishlist\\wishlist.css"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\wishlist\\wishlist.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\wishlist\\wishlist.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\css\\wishlist\\wishlist.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\wishlist\\wishlist.scss"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\aboutUs.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\aboutUs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\avatar-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar-1.png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\avatar-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar-2.png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\avatar-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatar-3.png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\blog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\cameras.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cameras.png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\flag1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\flag1.svg"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\headphone1 (1).png",
+      "PackagePath": "staticwebassets\\assets\\img\\headphone1 (1).png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\headphone1 (2).png",
+      "PackagePath": "staticwebassets\\assets\\img\\headphone1 (2).png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\headphone1 (3).png",
+      "PackagePath": "staticwebassets\\assets\\img\\headphone1 (3).png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\headphone1 (4).png",
+      "PackagePath": "staticwebassets\\assets\\img\\headphone1 (4).png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\headphone1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\headphone1.png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\laptop (1).png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptop (1).png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\laptop (2).png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptop (2).png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\laptop (3).png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptop (3).png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\laptop (4).png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptop (4).png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\laptop (5).png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptop (5).png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\laptop (6).png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptop (6).png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\laptop.png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptop.png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\logo-02-01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-02-01.png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\member1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\member1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\member2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\member2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\member3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\member3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\member4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\member4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\mobiles.png",
+      "PackagePath": "staticwebassets\\assets\\img\\mobiles.png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\slider1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\slider2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\slider3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\slider4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\slider5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\img\\tablet.png",
+      "PackagePath": "staticwebassets\\assets\\img\\tablet.png"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\js\\about.js",
+      "PackagePath": "staticwebassets\\assets\\js\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\js\\account.js",
+      "PackagePath": "staticwebassets\\assets\\js\\account.js"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\js\\cart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\js\\home.js",
+      "PackagePath": "staticwebassets\\assets\\js\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\cavid\\Desktop\\Asp.net\\Sophia\\Sophia\\wwwroot\\assets\\js\\product-detail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\product-detail.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Sophia.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Sophia.props",
+      "PackagePath": "build\\Sophia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Sophia.props",
+      "PackagePath": "buildMultiTargeting\\Sophia.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Sophia.props",
+      "PackagePath": "buildTransitive\\Sophia.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
